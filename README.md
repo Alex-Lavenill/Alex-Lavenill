@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Godot Engine and NodeJS
 - 💞️ I’m looking to create my games
 - 📫 How to reach me:
-- - Twitter -> @alex_lavenill
-- - Instagram -> @alex_lavenill_
+- 🐦 Twitter -> @alex_lavenill
+- 📷 Instagram -> @alex_lavenill_
 
 <!---
 Alex-Lavenill/Alex-Lavenill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
