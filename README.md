@@ -4,7 +4,7 @@
 - 💞️ I’m looking to create my games
 - 📫 How to reach me:
 - 🐦 <b>Twitter</b> -> @alex_lavenill
-- 📷 Instagram -> @alex_lavenill_
+- 📷 <b>Instagram</b> -> @alex_lavenill_
 
 <!---
 Alex-Lavenill/Alex-Lavenill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
