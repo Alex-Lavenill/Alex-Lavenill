@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Godot Engine and NodeJS
 - 💞️ I’m looking to create my games
 - 📫 How to reach me:
-- 🐦 Twitter -> @alex_lavenill
+- 🐦 <b>Twitter</b> -> @alex_lavenill
 - 📷 Instagram -> @alex_lavenill_
 
 <!---
