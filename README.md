@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alex-Lavenill
 - 👀 I’m interested in GameDev and Back-End
 - 🌱 I’m currently learning Godot Engine and NodeJS
-- 💞️ I’m looking to create my games
+- 💞️ I’m creating my games here
 - 📫 How to reach me:
 - 🐦 <b>Twitter</b> -> @alex_lavenill
 - 📷 <b>Instagram</b> -> @alex_lavenill_
